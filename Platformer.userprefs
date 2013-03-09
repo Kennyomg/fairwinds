@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuLoader.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Custom Scripts\EnemyAI.cs" Line="59" Column="72" />
+      <File FileName="Assets\Scripts\playerControls.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\GameSettings.cs" Line="4" Column="44" />
+      <File FileName="Assets\Scripts\HSGUIScript.cs" Line="26" Column="17" />
+      <File FileName="Assets\Scripts\scoreuiClass.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\shipMovement.cs" Line="17" Column="31" />
+      <File FileName="Assets\Scripts\ListShip.cs" Line="7" Column="34" />
+      <File FileName="Assets\Scripts\BananaScript.cs" Line="6" Column="3" />
+      <File FileName="Assets\Scripts\MenuLoader.cs" Line="5" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
